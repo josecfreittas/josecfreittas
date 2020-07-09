@@ -1,7 +1,5 @@
 # About me
 
-### **José Camelo de Freitas Filho**
-
 Developer, 23 years old, living in Arapiraca, AL - Brazil.
 
 Currently working on [Centro de Inovação Colaborativa de Arapiraca (CICA)](https://cica.arapiraca.ufal.br)
