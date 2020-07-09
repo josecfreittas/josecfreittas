@@ -2,7 +2,7 @@
 
 Developer, 23 years old, living in Arapiraca, AL - Brazil.
 
-Currently working on [Centro de Inovação Colaborativa de Arapiraca (CICA)](https://cica.arapiraca.ufal.br)
+Currently working at [Centro de Inovação Colaborativa de Arapiraca (CICA)](https://cica.arapiraca.ufal.br)
 
 E-mail: [josecfreittas@outlook.com](mailto:josecfreittas@outlook.com)
 
