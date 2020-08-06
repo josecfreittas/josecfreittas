@@ -1,28 +1,18 @@
 # About me
 
-Developer, 23 years old, living in Arapiraca, AL - Brazil.
+Brazilian Developer, 23 years old, currently working at [Centro de Inovação Colaborativa de Arapiraca (CICA)](https://cica.arapiraca.ufal.br).
 
-Currently working at [Centro de Inovação Colaborativa de Arapiraca (CICA)](https://cica.arapiraca.ufal.br)
-
-
-E-mail: [josecfreittas@outlook.com](mailto:josecfreittas@outlook.com)
-
-Telegram: [@josecfreittas](https://t.me/josecfreittas)
-
-GitHub: [@josecfreittas](https://github.com/josecfreittas)
-
-
-[Instagram](https://www.instagram.com/josecfreittas/) - [Twitter](https://twitter.com/josecfreittas/) - [LinkedIn](https://www.linkedin.com/in/josecfreittas) - [Medium](https://medium.com/@josecfreittas)
+[Telegram](https://t.me/josecfreittas) - [LinkedIn](https://www.linkedin.com/in/josecfreittas) - [Instagram](https://www.instagram.com/josecfreittas/) - [Medium](https://medium.com/@josecfreittas)
 
 ---
 
-## Current development stack
+## Current stack
 
-Node.js / Express.js (backend)
+Mobile: Flutter
 
-Angular (web frontend)
+Web: Angular
 
-Flutter (mobile)
+Backend: Node.js w. Express
 
 
 ## Some projects I worked on
@@ -33,9 +23,9 @@ Flutter (mobile)
 
 [Lealdesk](https://play.google.com/store/apps/details?id=com.lealdesk.demo) (Ionic/Angular mobile app)
 
-[Guia do Calouro](https://play.google.com/store/apps/details?id=com.eidi.coletivo.guiaDoCalouro&hl=en) (Ionic/Angular mobile app)
-
 [Game Garden](http://scriptaria.com/projetos/game-garden/) (Ionic/Angular mobile app)
+
+[Guia do Calouro](https://play.google.com/store/apps/details?id=com.eidi.coletivo.guiaDoCalouro&hl=en) (Ionic/Angular mobile app)
 
 
 ## Blog posts
