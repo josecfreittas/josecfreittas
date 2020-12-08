@@ -2,7 +2,7 @@
 
 Brazilian Developer, 23 years old, currently working at [Centro de Inovação Colaborativa de Arapiraca (CICA)](https://cica.arapiraca.ufal.br).
 
-[Telegram](https://t.me/josecfreittas) - [LinkedIn](https://www.linkedin.com/in/josecfreittas) - [Instagram](https://www.instagram.com/josecfreittas/) - [Medium](https://medium.com/@josecfreittas)
+[Telegram](https://t.me/josecfreittas) - [LinkedIn](https://www.linkedin.com/in/josecfreittas) - [Medium](https://medium.com/@josecfreittas)
 
 ---
 
@@ -12,7 +12,7 @@ Mobile: Flutter
 
 Web: Angular
 
-Backend: Node.js w. Express
+Backend: Node.js w. Express.js
 
 
 ## Some projects I worked on
