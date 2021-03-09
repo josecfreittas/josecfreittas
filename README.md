@@ -4,17 +4,6 @@ Brazilian Developer, 23 years old, currently working at [Centro de Inovação Co
 
 [Telegram](https://t.me/josecfreittas) - [LinkedIn](https://www.linkedin.com/in/josecfreittas) - [Medium](https://medium.com/@josecfreittas)
 
----
-
-## Current stack
-
-Mobile: Flutter
-
-Web: Angular
-
-Backend: Node.js w. Express.js
-
-
 ## Some projects I worked on
 
 [Quick Express](https://github.com/scriptaria/quick-express) (Open Source Express.js/Typescript boilerplate)
