@@ -6,16 +6,13 @@ Brazilian Developer, 24 years old, currently working at [Centro de Inovação Co
 
 ## Some projects I worked on
 
-[Quick Express](https://github.com/scriptaria/quick-express) (Open Source Express.js/Typescript boilerplate)
-
 [PedeAíVai](https://pedeaivai.com.br) (Express.js backend & administrative panel in Angular)
 
 [Lealdesk](https://play.google.com/store/apps/details?id=com.lealdesk.demo) (Ionic/Angular mobile app)
 
 [Game Garden](http://scriptaria.com/projetos/game-garden/) (Ionic/Angular mobile app)
 
-[Guia do Calouro](https://play.google.com/store/apps/details?id=com.eidi.coletivo.guiaDoCalouro&hl=en) (Ionic/Angular mobile app)
-
+[Quick Express](https://github.com/scriptaria/quick-express) (Open Source Express.js/Typescript boilerplate)
 
 ## Blog posts
 
