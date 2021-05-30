@@ -4,16 +4,6 @@ Brazilian Developer, 24 years old, currently working at [Centro de Inovação Co
 
 [Telegram](https://t.me/josecfreittas) - [LinkedIn](https://www.linkedin.com/in/josecfreittas) - [Medium](https://medium.com/@josecfreittas)
 
-## Some projects I worked on
-
-[PedeAíVai](https://pedeaivai.com.br) (Express.js backend & administrative panel in Angular)
-
-[Lealdesk](https://play.google.com/store/apps/details?id=com.lealdesk.demo) (Ionic/Angular mobile app)
-
-[Game Garden](http://scriptaria.com/projetos/game-garden/) (Ionic/Angular mobile app)
-
-[Quick Express](https://github.com/scriptaria/quick-express) (Open Source Express.js/Typescript boilerplate)
-
 ## Blog posts
 
 [Aprendendo e brincando com Docker pelo navegador](https://medium.com/@josecfreittas/aprendendo-e-brincando-com-docker-pelo-navegador-61d15e1832b6)
