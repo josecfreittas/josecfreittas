@@ -1,6 +1,6 @@
 # About me
 
-Brazilian Developer, 24 years old, currently working at [Centro de Inovação Colaborativa de Arapiraca (CICA)](https://cica.arapiraca.ufal.br).
+Brazilian Developer, 24 years old, currently working at [Centro de Inovação EDGE](http://edgebr.org).
 
 [Telegram](https://t.me/josecfreittas) - [LinkedIn](https://www.linkedin.com/in/josecfreittas) - [Medium](https://medium.com/@josecfreittas)
 
