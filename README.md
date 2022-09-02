@@ -1,6 +1,6 @@
 # About me
 
-Brazilian Developer, currently working at [Trybe 💚](https://www.betrybe.com) .
+Brazilian Developer, currently working with Elixir at [Trybe 💚](https://www.betrybe.com) .
 
 [Blog](https://camelo.me/) - [LinkedIn](https://www.linkedin.com/in/josecfreittas)
 
