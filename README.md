@@ -1,6 +1,6 @@
 # About me
 
-Brazilian Developer, currently working with Elixir at [Trybe 💚](https://www.betrybe.com) .
+Fullstack Brazilian Developer, currently focusing in backend with Elixir.
 
 [Blog](https://camelo.me/) - [LinkedIn](https://www.linkedin.com/in/josecfreittas)
 
